@@ -1,1 +1,1 @@
-[aeiou]{3,}/ig
+/\w*[aeiou]{3,}\w*/ig

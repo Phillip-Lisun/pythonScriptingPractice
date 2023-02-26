@@ -1,1 +1,1 @@
-hello\sworld
+/hello\sworld/g
