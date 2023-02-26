@@ -81,8 +81,3 @@ outputStats = OrderedDict(sorted(outputStats.items(), key=lambda x:x[1], reverse
 
 for name in outputStats: #prints results
     print(name,':',outputStats[name])
-
-
-
-
-
